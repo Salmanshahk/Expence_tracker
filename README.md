@@ -1,34 +1,17 @@
-# XLS TO XLSX
+Expense Tracker
+This is a simple command-line program written in Python to help you track your daily spending and organize costs by category. 
 
+Features
+Add Categories: Create new spending groups before or during use.
+Add Expenses: Log costs with a specific date, amount, and category.
+View Expenses: See total amounts spent per category.
+View Categories: List all currently active categories.
 
-## Description
-This Python script that converts Microsoft Excel '.xls' file format into '.xlsx' file.
+How to Run 
+Make sure you have Python installed on your computer.
+Save the script into a file named expense_tracker.py.
+Open your terminal or command prompt.
+Run the program using this command:
 
-## Languages or Frameworks Used
-This script requires [Python 3](https://www.python.org/downloads/) and library [pywin32](https://pypi.org/project/pywin32/).
-
-
-## How to use
-
-1. Ensure you have [Python 3](https://www.python.org/downloads/) installed on your system.
-2. Navigate to this project directory or where `xls_to_xlsx.py` is saved.
-3. To install the required dependencies, open a terminal and run:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Make sure you close all running Microsoft Excel applications before executing the script.
-5. To run the script, open a terminal and run the following command:
-
-```bash
-python xls_to_xlsx.py
-```
-
-6. Follow the prompts to input the file path.
-7. The output file is then saved in the same directory as the input file.
-8. Input either 'y' to delete the old '.xls' file or 'n' to keep it instead.
-
-
-## Author
-[Salmanshahk](https://github.com/Salmanshahk))
+bash:
+python expense_tracker.py
