@@ -8,11 +8,11 @@
 ### 3. View Expenses: See total amounts spent per category.
 ### 4. View Categories: List all currently active categories.
 
-How to Run 
-Make sure you have Python installed on your computer.
-Save the script into a file named expense_tracker.py.
-Open your terminal or command prompt.
-Run the program using this command:
+## How to Run 
+### 1. Make sure you have Python installed on your computer.
+### 2. Save the script into a file named expense_tracker.py.
+### 3. Open your terminal or command prompt.
+### 4. Run the program using this command:
 
-bash:
-python expense_tracker.py
+## bash:
+### python expense_tracker.py
